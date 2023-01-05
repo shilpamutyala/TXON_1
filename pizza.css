@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/top-view-pizza-with-red-pepper-tomato-sauce-with-copy-space_23-2148765350.jpg?w=1060&t=st=1672737321~exp=1672737921~hmac=cdf94db2f7d06b478b730cf25e058a5926f106513d0f4cd053a34036a88697ff");
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-heading {
+
+    font-family: "Sans-Serif";
+
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.h-text {
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    padding: 15px;
+}
+
+
+#navitem1 {
+    color: white;
+    font-size: 20px;
+    background-color: #421b1b;
+    border-radius: 20px;
+    transition: 0.6s ease;
+
+}
+
+#navitem2 {
+    color: white;
+    font-size: 20px;
+    background-color: #421b1b;
+    border-radius: 20px;
+    transition: 0.6s ease;
+}
+
+#navitem3 {
+    color: white;
+    font-size: 20px;
+    background-color: #421b1b;
+    border-radius: 20px;
+    transition: 0.6s ease;
+}
+
+#navitem4 {
+    color: white;
+    font-size: 20px;
+    background-color: #421b1b;
+    border-radius: 20px;
+    transition: 0.6s ease;
+}
+
+#navitem5 {
+    color: white;
+    font-size: 20px;
+    background-color: #421b1b;
+    border-radius: 20px;
+    transition: 0.6s ease;
+}
+
+
+
+.delicious-css {
+    color: #ebd334;
+    font-size: 2em;
+    letter-spacing: 3px;
+    font-family: "Lobster";
+    font-weight: bold;
+
+
+
+
+
+
+
+}
+
+.cheese-css {
+    color: white;
+    font-size: 4em;
+    font-family: "Lobster";
+
+
+    padding-top: 0px;
+
+
+
+}
+
+.pizza-css {
+    color: #eb3434;
+    font-size: 6em;
+    font-family: "Playfair Display";
+    line-height: 1.5em;
+    font-weight: bold;
+
+
+}
+
+.pizza-element {
+    font-size: 150px;
+}
+
+#order {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+
+
+}
+
+#dis {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-color: brown;
+    border-radius: 8px;
+
+}
+
+.media-logo {
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 20px;
+    font-size: 40px;
+    color: white;
+}
